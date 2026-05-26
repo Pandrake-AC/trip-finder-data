@@ -87,7 +87,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -278,7 +278,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -314,10 +314,10 @@
         "start_date": "2028-03-14",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -463,7 +463,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -666,7 +666,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -1136,7 +1136,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -1253,10 +1253,10 @@
         "start_date": "2027-02-20",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -1296,7 +1296,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -1568,7 +1568,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -1698,10 +1698,10 @@
         "start_date": "2028-01-13",
         "voyage_title": "Spirit of Shackleton",
         "nights_on_board": 20,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -2254,7 +2254,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -2588,10 +2588,10 @@
         "start_date": "2027-01-30",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -2630,7 +2630,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -2793,7 +2793,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -2909,10 +2909,10 @@
         "start_date": "2027-01-02",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -3134,7 +3134,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -3171,7 +3171,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -3372,7 +3372,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -3410,7 +3410,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -3726,7 +3726,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -4057,10 +4057,10 @@
         "start_date": "2027-10-21",
         "voyage_title": "Falklands, South Georgia and Antarctica",
         "nights_on_board": 21,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "KAY"
         ],
@@ -4137,10 +4137,10 @@
         "start_date": "2027-01-11",
         "voyage_title": "Spirit of Shackleton",
         "nights_on_board": 20,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -4487,10 +4487,10 @@
         "start_date": "2027-03-22",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -4610,7 +4610,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -4864,7 +4864,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -4935,7 +4935,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -5198,7 +5198,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -5354,7 +5354,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -5391,7 +5391,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL",
           "Icebird Yacht Expedition"
@@ -5573,7 +5573,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -5763,7 +5763,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -5798,7 +5798,7 @@
         "start_date": "2028-01-21",
         "voyage_title": "Expedition Antarctica: Antarctic Circle (intensive)",
         "nights_on_board": 21,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -5839,7 +5839,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -6003,7 +6003,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -6283,7 +6283,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -6400,7 +6400,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -6437,7 +6437,7 @@
         "ship_name": "Heritage Discoverer",
         "DIRECT-Company_url": "https://www.heritage-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/mv-discoverer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/discoverer/",
         "activity_codes": [
           "KAY"
         ],
@@ -6474,7 +6474,7 @@
         "start_date": "2028-01-07",
         "voyage_title": "Expedition Antarctica: South Georgia and Antarctic Peninsula",
         "nights_on_board": 14,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -6672,7 +6672,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -6887,7 +6887,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -6953,7 +6953,7 @@
         "start_date": "2027-12-14",
         "voyage_title": "Expedition Antarctica: Weddell Sea (intensive, Christmas cruise)",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -7120,7 +7120,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -7616,7 +7616,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -7653,7 +7653,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -8048,7 +8048,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -8169,10 +8169,10 @@
         "start_date": "2026-12-21",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -8212,7 +8212,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -8440,7 +8440,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -8477,7 +8477,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -8515,7 +8515,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -8551,10 +8551,10 @@
         "start_date": "2026-12-12",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -8995,7 +8995,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -9034,7 +9034,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -9113,7 +9113,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -9661,7 +9661,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -9740,7 +9740,7 @@
         "start_date": "2028-01-03",
         "voyage_title": "Expedition Antarctica: Antarctic Circle (intensive)",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -9942,7 +9942,7 @@
         "start_date": "2028-11-02",
         "voyage_title": "Expedition Antarctica: Highlights first hand",
         "nights_on_board": 22,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -10119,7 +10119,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -10394,10 +10394,10 @@
         "start_date": "2026-10-22",
         "voyage_title": "Falklands, South Georgia and Antarctica",
         "nights_on_board": 21,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "KAY"
         ],
@@ -10557,7 +10557,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -10841,7 +10841,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -10951,7 +10951,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -10988,7 +10988,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -11259,7 +11259,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL",
           "Icebird Yacht Expedition"
@@ -11380,7 +11380,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -11644,7 +11644,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -12157,7 +12157,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -12273,7 +12273,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -12350,10 +12350,10 @@
         "start_date": "2026-12-01",
         "voyage_title": "Antarctica Classic in Depth",
         "nights_on_board": 12,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -12588,7 +12588,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -12711,7 +12711,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -12896,7 +12896,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -12933,7 +12933,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -13243,7 +13243,7 @@
         "ship_name": "MV Discoverer",
         "DIRECT-Company_url": "https://polar-latitudes.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/mv-discoverer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/discoverer/",
         "activity_codes": [
           "KAX",
           "CMP",
@@ -13401,7 +13401,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -13556,7 +13556,7 @@
         "ship_name": "MV Discoverer",
         "DIRECT-Company_url": "https://polar-latitudes.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/mv-discoverer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/discoverer/",
         "activity_codes": [
           "KAX",
           "CMP",
@@ -13627,10 +13627,10 @@
         "start_date": "2028-02-01",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -13744,10 +13744,10 @@
         "start_date": "2026-11-11",
         "voyage_title": "Antarctica Classic in Depth",
         "nights_on_board": 12,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -13864,7 +13864,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -13901,7 +13901,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -14017,7 +14017,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -14054,7 +14054,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -14251,7 +14251,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -14327,7 +14327,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -14444,7 +14444,7 @@
         "start_date": "2027-11-26",
         "voyage_title": "Expedition Antarctica: Highlights first hand",
         "nights_on_board": 22,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -14555,7 +14555,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -14633,7 +14633,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -14670,7 +14670,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -15153,7 +15153,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -15314,7 +15314,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -15556,10 +15556,10 @@
         "start_date": "2028-03-23",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -15760,10 +15760,10 @@
         "start_date": "2028-02-22",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -16421,7 +16421,7 @@
         "start_date": "2026-12-21",
         "voyage_title": "Expedition Antarctica from Cape to Cape (Christmas cruise): The ultimate adventure between two continents",
         "nights_on_board": 22,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -16543,7 +16543,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -16778,7 +16778,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -16894,7 +16894,7 @@
         "start_date": "2028-02-11",
         "voyage_title": "Expedition Antarctica: South Georgia and Antarctic Peninsula",
         "nights_on_board": 14,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -16974,7 +16974,7 @@
         "ship_name": "MV Discoverer",
         "DIRECT-Company_url": "https://polar-latitudes.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/mv-discoverer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/discoverer/",
         "activity_codes": [
           "KAX",
           "KAY"
@@ -17013,7 +17013,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -17050,7 +17050,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -17286,7 +17286,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -17324,7 +17324,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -17595,7 +17595,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -17711,7 +17711,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -17785,7 +17785,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -18017,7 +18017,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -18054,7 +18054,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -18122,7 +18122,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -18160,7 +18160,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -18434,7 +18434,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -18548,7 +18548,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -18825,7 +18825,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -18929,7 +18929,7 @@
         "start_date": "2028-11-24",
         "voyage_title": "Expedition Antarctica: Highlights first hand",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -19128,7 +19128,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -19552,10 +19552,10 @@
         "start_date": "2026-11-22",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -19816,7 +19816,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -20085,7 +20085,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -20355,7 +20355,7 @@
         "start_date": "2027-02-01",
         "voyage_title": "Expedition semi-circumnavigation of Antarctica: one of the greatest feats of our time",
         "nights_on_board": 32,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Christchurch",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -20396,7 +20396,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -20740,7 +20740,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -20813,10 +20813,10 @@
         "start_date": "2028-03-05",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -20893,7 +20893,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -21012,7 +21012,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -21051,7 +21051,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -21166,7 +21166,7 @@
         "start_date": "2026-12-13",
         "voyage_title": "Expedition Antarctica: Weddell Sea intensive (Christmas cruise)",
         "nights_on_board": 22,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -21329,7 +21329,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -21407,7 +21407,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -21481,7 +21481,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -21558,7 +21558,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -21672,7 +21672,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -21959,7 +21959,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -21998,7 +21998,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -22217,7 +22217,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -22293,7 +22293,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -22594,7 +22594,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -22825,7 +22825,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -22860,10 +22860,10 @@
         "start_date": "2028-01-01",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -22942,10 +22942,10 @@
         "start_date": "2027-12-20",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -23067,7 +23067,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -23413,7 +23413,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -23652,7 +23652,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -23844,7 +23844,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -24552,7 +24552,7 @@
         "start_date": "2028-12-02",
         "voyage_title": "Expedition Antarctica: South Georgia and Antarctic Peninsula",
         "nights_on_board": 14,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -24593,7 +24593,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -24785,10 +24785,10 @@
         "start_date": "2027-12-09",
         "voyage_title": "Antarctica Classic in Depth",
         "nights_on_board": 12,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -25300,7 +25300,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -25376,7 +25376,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL",
           "Icebird Yacht Expedition"
@@ -25752,7 +25752,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL",
           "Icebird Yacht Expedition"
@@ -25832,10 +25832,10 @@
         "start_date": "2027-11-30",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -26028,7 +26028,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -26142,7 +26142,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -26418,10 +26418,10 @@
         "start_date": "2027-02-08",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -26615,7 +26615,7 @@
         "start_date": "2028-01-23",
         "voyage_title": "Expedition semi-circumnavigation Antarctica: a route that only a few have ever completed",
         "nights_on_board": 32,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Christchurch",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -26656,7 +26656,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -26737,7 +26737,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -27554,10 +27554,10 @@
         "start_date": "2027-11-21",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -27958,7 +27958,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -28496,7 +28496,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -28534,7 +28534,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -28990,7 +28990,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -29188,7 +29188,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -29224,7 +29224,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -29345,7 +29345,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -29496,7 +29496,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -29848,7 +29848,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -30117,7 +30117,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -30154,7 +30154,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -30189,10 +30189,10 @@
         "start_date": "2027-03-04",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -30269,7 +30269,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -30339,7 +30339,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -30413,7 +30413,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -30450,7 +30450,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -30647,7 +30647,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -30983,7 +30983,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -31463,10 +31463,10 @@
         "start_date": "2027-03-13",
         "voyage_title": "Antarctica Classic",
         "nights_on_board": 10,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -31932,7 +31932,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -32176,7 +32176,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -32415,7 +32415,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -33148,7 +33148,7 @@
         "start_date": "2027-12-18",
         "voyage_title": "Expedition Antarctica: Weddell Sea (intensive, Christmas cruise)",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -33561,10 +33561,10 @@
         "start_date": "2028-02-10",
         "voyage_title": "Quest for the Antarctic Circle",
         "nights_on_board": 13,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -33843,7 +33843,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -33921,7 +33921,7 @@
         "ship_name": "MV Discoverer",
         "DIRECT-Company_url": "https://polar-latitudes.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/mv-discoverer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/discoverer/",
         "activity_codes": [
           "KAX",
           "KAY"
@@ -34350,7 +34350,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -34965,7 +34965,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -35173,7 +35173,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -35247,7 +35247,7 @@
         "ship_name": "MV Discoverer",
         "DIRECT-Company_url": "https://polar-latitudes.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/mv-discoverer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/discoverer/",
         "activity_codes": [
           "KAX",
           "CMP",
@@ -35554,7 +35554,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -35592,7 +35592,7 @@
         "start_date": "2028-12-16",
         "voyage_title": "Expedition Antarctica: Weddell Sea (intensive, Christmas cruise)",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -35986,7 +35986,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -36177,7 +36177,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -36212,7 +36212,7 @@
         "start_date": "2027-11-22",
         "voyage_title": "Expedition Antarctica: Highlights first hand",
         "nights_on_board": 22,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -36476,7 +36476,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -36670,7 +36670,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -36820,7 +36820,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -36860,7 +36860,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -37286,7 +37286,7 @@
         "ship_name": "RMS St Helena",
         "DIRECT-Company_url": "https://www.terranova-expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/rms-st-helena/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/st-helena/",
         "activity_codes": [
           "DSL"
         ],
@@ -37548,7 +37548,7 @@
         "start_date": "2028-12-14",
         "voyage_title": "Expedition Antarctica: Weddell Sea (intensive, Christmas cruise)",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Spirit",
+        "ship_name": "Hanseatic Spirit",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-spirit/",
@@ -37590,7 +37590,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -38324,7 +38324,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -38488,7 +38488,7 @@
         "ship_name": "NG Endurance",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-endurance/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
         "activity_codes": [
           "KAX"
         ],
@@ -38975,7 +38975,7 @@
         "ship_name": "NG Orion",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Puerto Natales",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-orion/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
         "activity_codes": [
           "KAX"
         ],
@@ -39010,10 +39010,10 @@
         "start_date": "2027-11-10",
         "voyage_title": "Antarctica Classic in Depth",
         "nights_on_board": 12,
-        "ship_name": "MS Expedition",
+        "ship_name": "G Expedition",
         "DIRECT-Company_url": "https://www.gadventures.com/travel-styles/cruising/expedition-cruises/antarctica/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/expedition/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/g-expedition/",
         "activity_codes": [
           "CMP",
           "KAY"
@@ -39052,7 +39052,7 @@
         "ship_name": "NG Resolution",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Santiago",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-resolution/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
         "activity_codes": [
           "KAX"
         ],
@@ -39090,7 +39090,7 @@
         "ship_name": "MS Fridtjof Nansen",
         "DIRECT-Company_url": "https://www.travelhx.com/en-us/",
         "finish_location": "Buenos Aires",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridtjof-nansen/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ms-fridjof-nansen/",
         "activity_codes": [
           "KAX",
           "CMP"
@@ -39458,7 +39458,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
@@ -39615,7 +39615,7 @@
         "start_date": "2027-02-13",
         "voyage_title": "Expedition Antarctica: Antarctic Circle (intensive)",
         "nights_on_board": 20,
-        "ship_name": "HANSEATIC Inspiration",
+        "ship_name": "Hanseatic Inspiration",
         "DIRECT-Company_url": "https://www.hl-cruises.com/",
         "finish_location": "Ushuaia",
         "AC-ship_url": "https://www.antarcticaconfidential.com/hanseatic-inspiration/",
@@ -39687,7 +39687,7 @@
         "ship_name": "NG Explorer",
         "DIRECT-Company_url": "https://www.expeditions.com/",
         "finish_location": "Ushuaia",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/national-geographic-explorer/",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
         "activity_codes": [
           "KAX"
         ],
