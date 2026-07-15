@@ -73,6 +73,45 @@
       }
     },
     {
+      "id": "rec04qzT0w2K60hEA",
+      "createdTime": "2026-07-15T13:31:01.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-28-12-28",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-28",
+        "voyage_title": "Antarctica: Exploring the Peninsula & the Falklands",
+        "nights_on_board": 10,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "Falklands/Malvinas"
+        ],
+        "finish_date": "2029-01-09",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4281228012.html",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "rec06h6JOB9AfidaI",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -106,6 +145,47 @@
         "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
         "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
         "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "rec07UKIqjgXrhSr3",
+      "createdTime": "2026-07-15T13:01:04.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-29-03-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2029-03-12",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-23",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -384,7 +464,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-10-24",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 10,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -2118,6 +2198,44 @@
       }
     },
     {
+      "id": "rec2R7OFvhdhLUh7a",
+      "createdTime": "2026-07-15T13:30:42.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-11-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-12",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-18",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281112006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "rec2SZmUYNDVdkt1v",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -2167,7 +2285,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-20",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring South Georgia & the Falklands",
         "nights_on_board": 18,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -2504,6 +2622,46 @@
         "DIRECT-Ship_URL": "https://us.ponant.com/cruise-ships/l-austral",
         "DIRECT-Dates-Rates-URL": "https://us.ponant.com/destinations/antarctica",
         "voyage_url": "https://us.ponant.com/antarctica-emblematic-antarctica-au181226-12",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "rec39tzIYZKdYdx9F",
+      "createdTime": "2026-07-15T13:00:59.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-29-02-08",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2029-02-08",
+        "voyage_title": "Antarctica by Helicopter: Crossing the Circle and the Peninsula",
+        "nights_on_board": 12,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "HFS",
+          "HLD"
+        ],
+        "route_destinations": [
+          "Antarctic Circle",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-21",
+        "activities": [
+          "Helicopter Flightseeing",
+          "Helicopter Landing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctica-by-helicopter-crossing-the-circle-and-the-peninsula",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -3052,7 +3210,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-01-05",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -3203,7 +3361,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-14",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -3523,7 +3681,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-12-11",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 10,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -4447,7 +4605,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-04",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -5000,6 +5158,160 @@
       }
     },
     {
+      "id": "rec72JH2aFOg8fdUt",
+      "createdTime": "2026-07-15T13:31:17.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-02-07",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-07",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-13",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-wi290207006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "rec72lCJxfm2bQonO",
+      "createdTime": "2026-07-15T13:31:00.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-12-24",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-24",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-30",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281224006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "rec73KlBG4qGQMDM2",
+      "createdTime": "2026-07-15T13:31:00.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-12-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-27",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-05",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-wi281227009.html",
+        "voyage_type": "Fly / Sail"
+      }
+    },
+    {
+      "id": "rec74cw2ozEXptuzO",
+      "createdTime": "2026-07-15T13:31:12.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-29-01-24",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-24",
+        "voyage_title": "Antarctica: Exploring South Georgia & the Falklands",
+        "nights_on_board": 16,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "Falklands/Malvinas",
+          "South Georgia"
+        ],
+        "finish_date": "2029-02-11",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 18,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4290124018.html",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "rec7AtLvlCLfXYKnv",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -5080,7 +5392,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-10-27",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -5105,6 +5417,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-wi261029009.html",
         "voyage_type": "Fly / Sail"
+      }
+    },
+    {
+      "id": "rec7PzcV6oFpDEcSo",
+      "createdTime": "2026-07-15T13:30:58.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-12-21",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-21",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-27",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-wi281221006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -5521,6 +5871,45 @@
       }
     },
     {
+      "id": "rec7kM17iHo2tDSpn",
+      "createdTime": "2026-07-15T13:09:28.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-28-12-03",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-12-03",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-13",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "rec7m38JjXrNGsbfG",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -5822,6 +6211,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.hl-cruises.com/cruisefinder",
         "voyage_url": "https://www.hl-cruises.com/cruisefinder/INS2802",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "rec8YN4M3uFL5JLVL",
+      "createdTime": "2026-07-15T13:30:53.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-12-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-06",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-12",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281206006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -6180,6 +6607,45 @@
         "DIRECT-Dates-Rates-URL": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "rec96JoARLMVzaxSJ",
+      "createdTime": "2026-07-15T13:30:32.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-10-23",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-10-23",
+        "voyage_title": "Antarctica & South Georgia: Sail & Fly the Drake Passage",
+        "nights_on_board": 12,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "South Georgia"
+        ],
+        "finish_date": "2028-11-06",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-ev281023014.html",
+        "voyage_type": "Sail / Fly"
       }
     },
     {
@@ -6618,6 +7084,90 @@
       }
     },
     {
+      "id": "rec9dXPvZKTM1xTV6",
+      "createdTime": "2026-07-15T13:00:57.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-29-01-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2029-01-18",
+        "voyage_title": "Epic Antarctica: The Falklands, South Georgia and Crossing the Circle",
+        "nights_on_board": 21,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "HFS",
+          "KAY",
+          "HLD"
+        ],
+        "route_destinations": [
+          "Antarctic Circle",
+          "Antarctic Peninsula",
+          "Falklands/Malvinas",
+          "South Georgia"
+        ],
+        "finish_date": "2029-02-09",
+        "activities": [
+          "Helicopter Flightseeing",
+          "Sea Kayaking",
+          "Helicopter Landing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 23,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/epic-antarctica-crossing-the-circle-falklands-and-south-georgia",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "rec9onigR7K5SrgzO",
+      "createdTime": "2026-07-15T13:00:53.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-12-07",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-12-07",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-18",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "rec9qydNRPV5ojEgx",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -6941,6 +7491,43 @@
       }
     },
     {
+      "id": "recAYhsOK0mnITt9B",
+      "createdTime": "2026-07-15T13:09:41.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-29-02-14",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-02-14",
+        "voyage_title": "Antarctic Express: Fly South, Sail North",
+        "nights_on_board": 7,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-22",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-south-cruise-north",
+        "voyage_type": "Fly / Sail"
+      }
+    },
+    {
       "id": "recAYn2w5O1SppWS3",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -7143,6 +7730,47 @@
       }
     },
     {
+      "id": "recB1OqmaeVZ5dhPV",
+      "createdTime": "2026-07-15T13:09:43.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-29-03-05",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-03-05",
+        "voyage_title": "Antarctic Marine Mammals: The World of Whales and Seals",
+        "nights_on_board": 9,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY",
+          "KAX",
+          "SUP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-15",
+        "activities": [
+          "Sea Kayaking",
+          "Kayak Excursion",
+          "SUP Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-marine-mammals-the-world-of-whales-and-seals",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recB5FJ5h1Zq2WtEr",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -7232,7 +7860,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-23",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
         "nights_on_board": 15,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -7244,7 +7872,7 @@
         "route_destinations": [
           "Antarctic Peninsula",
           "South Shetland Islands",
-          "Antarctic Circle"
+          "South Georgia"
         ],
         "finish_date": "2026-12-09",
         "activities": [
@@ -7457,7 +8085,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-10-19",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -7639,6 +8267,43 @@
       }
     },
     {
+      "id": "recBoPVosRLezMcFM",
+      "createdTime": "2026-07-15T12:57:21.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-29-03-10",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-03-10",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-20",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recBockAAyaP4k2D4",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -7685,7 +8350,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-07",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 10,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -8244,7 +8909,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-23",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -8358,7 +9023,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-01",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -8588,7 +9253,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-24",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -8613,6 +9278,45 @@
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev280226006.html",
         "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "recDGcixzR8EsBQWu",
+      "createdTime": "2026-07-15T13:00:52.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-11-15",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-11-15",
+        "voyage_title": "Emperor Penguin Quest: Expedition to Snow Hill",
+        "nights_on_board": 12,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "HFS",
+          "HLD"
+        ],
+        "route_destinations": [
+          "Snow Hill Island",
+          "Weddell Sea"
+        ],
+        "finish_date": "2028-11-28",
+        "activities": [
+          "Helicopter Flightseeing",
+          "Helicopter Landing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/emperor-penguin-quest-expedition-to-snow-hill",
+        "voyage_type": "Sail / Sail"
       }
     },
     {
@@ -8704,7 +9408,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-21",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -8885,6 +9589,44 @@
       }
     },
     {
+      "id": "recDjUfaNS61hgLCr",
+      "createdTime": "2026-07-15T13:31:23.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-29-02-26",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-26",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
+        "nights_on_board": 9,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-09",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4290226011.html",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recDqZ5y0sZKkYsYe",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -9016,6 +9758,45 @@
         "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
         "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
         "voyage_url": "https://www.expeditions.com/expeditions/antarctica-south-georgia-and-the-falklands",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recDwBHNRXMiy4icS",
+      "createdTime": "2026-07-15T13:09:24.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-28-11-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-11-06",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-16",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -9168,6 +9949,44 @@
       }
     },
     {
+      "id": "recE2WoiqqU6Je56H",
+      "createdTime": "2026-07-15T12:55:05.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-28-11-09",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-11-09",
+        "voyage_title": "South Georgia and Antarctic Peninsula: Penguin Safari",
+        "nights_on_board": 16,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Georgia",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-26",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 18,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/south-georgia-and-antarctic-peninsula-penguin-safari",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recEEfi8SfCXHupmf",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -9177,7 +9996,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-13",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -9497,7 +10316,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-19",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 10,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -9605,6 +10424,43 @@
       }
     },
     {
+      "id": "recFAI1JK1N7ct77o",
+      "createdTime": "2026-07-15T13:00:51.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-10-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-10-12",
+        "voyage_title": "Falkland Islands and South Georgia: 20-Day Wildlife Adventure",
+        "nights_on_board": 18,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Falklands/Malvinas",
+          "South Georgia"
+        ],
+        "finish_date": "2028-10-31",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 20,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/falkland-islands-and-south-georgia-20-day-wildlife-adventure",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recFExQ5QO1N7EW5y",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -9642,6 +10498,48 @@
         "DIRECT-Ship_URL": "https://www.travelhx.com/en/ships/roald-amundsen/",
         "DIRECT-Dates-Rates-URL": "https://www.travelhx.com/en-us/destinations/antarctica-cruises/",
         "voyage_url": "https://www.travelhx.com/en-us/cruises/antarctica-falklands-expedition/",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recFFhOkpAOdovvIx",
+      "createdTime": "2026-07-15T13:09:42.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-29-02-21",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-02-21",
+        "voyage_title": "Antarctic Peninsula: Crossing the Circle",
+        "nights_on_board": 12,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY",
+          "KAX",
+          "SUP"
+        ],
+        "route_destinations": [
+          "Antarctic Circle",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-06",
+        "activities": [
+          "Sea Kayaking",
+          "Kayak Excursion",
+          "SUP Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-peninsula-crossing-the-circle",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -9816,7 +10714,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-12",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -10336,6 +11234,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.antarctica21.com/antarctic-air-cruises",
         "voyage_url": "https://www.antarctica21.com/our-expeditions/falklands-south-georgia",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recGR4i5A127CA4yY",
+      "createdTime": "2026-07-15T13:30:39.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-11-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-06",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-12",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281106006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -11668,6 +12604,43 @@
       }
     },
     {
+      "id": "recIg0iEJtmONW5BH",
+      "createdTime": "2026-07-15T12:57:18.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-29-01-26",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-01-26",
+        "voyage_title": "Antarctic Express: Fly South, Sail North",
+        "nights_on_board": 7,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-03",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-south-cruise-north",
+        "voyage_type": "Fly / Sail"
+      }
+    },
+    {
       "id": "recIgrGBF24NABZiT",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -11717,7 +12690,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-24",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -12027,6 +13000,44 @@
       }
     },
     {
+      "id": "recJ8XyYgcoX1P0Tg",
+      "createdTime": "2026-07-15T13:31:11.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-01-23",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-23",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-29",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290123006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recJFc17dF6SAEROb",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -12036,7 +13047,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-01-31",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -12073,7 +13084,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-01-07",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 10,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -12427,7 +13438,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-27",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -12505,7 +13516,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-09",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -12854,7 +13865,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-26",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -13192,6 +14203,44 @@
       }
     },
     {
+      "id": "recKnFUJmvZxhjN05",
+      "createdTime": "2026-07-15T13:31:24.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-02-28",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-28",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-06",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290228006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recKqfTQvELPHnIwV",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -13201,7 +14250,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-08",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -13226,6 +14275,47 @@
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev271210006.html",
         "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "recKuKgE2O7AXD7y7",
+      "createdTime": "2026-07-15T13:00:59.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-29-02-20",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2029-02-20",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-03",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
       }
     },
     {
@@ -13472,7 +14562,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-10-30",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -13821,7 +14911,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-02-11",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
         "nights_on_board": 15,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -13833,7 +14923,7 @@
         "route_destinations": [
           "Antarctic Peninsula",
           "South Shetland Islands",
-          "Antarctic Circle"
+          "South Georgia"
         ],
         "finish_date": "2027-02-27",
         "activities": [
@@ -14472,6 +15562,44 @@
       }
     },
     {
+      "id": "recN1J4tPqMRe2Lau",
+      "createdTime": "2026-07-15T13:31:07.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-01-11",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-11",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-17",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290111006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recN2XHRZQZBd8cAs",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -14538,6 +15666,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.vikingcruises.com/expeditions/cruise-destinations/antarctica/index.html",
         "voyage_url": "https://www.vikingcruises.com/expeditions/cruise-destinations/antarctica/into-the-antarctic-circle/index.html",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recN94ojX2GMeu5kW",
+      "createdTime": "2026-07-15T13:31:14.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-01-29",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-29",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
+        "nights_on_board": 7,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-07",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi290129009.html?",
+        "voyage_type": "Sail / Fly"
       }
     },
     {
@@ -15139,6 +16305,44 @@
       }
     },
     {
+      "id": "recOIyKLANQXQ9nlU",
+      "createdTime": "2026-07-15T13:31:22.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-02-22",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-22",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-28",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290222006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recOKRErnoKJ66cob",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -15334,6 +16538,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
         "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
         "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "recOUwhLwf6stTb0u",
+      "createdTime": "2026-07-15T12:57:19.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-29-02-02",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-02-02",
+        "voyage_title": "Penguins of the Far South: Falklands, South Georgia and Antarctica",
+        "nights_on_board": 18,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "Falklands/Malvinas",
+          "South Georgia"
+        ],
+        "finish_date": "2029-02-21",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 20,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/penguins-of-the-far-south-falklands-south-georgia-and-antarctica",
+        "voyage_type": "Sail / Sail"
       }
     },
     {
@@ -15581,6 +16823,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.gadventures.com/search/?sortBy=wwwdepartures_en&destinations=Antarctica%7CSouth%20Georgia%20and%20the%20South%20Sandwich%20Islands",
         "voyage_url": "https://www.gadventures.com/trips/antarctica-classic/XVCASX/",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recOqymuB9E7ebvnz",
+      "createdTime": "2026-07-15T13:30:41.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-11-09",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-09",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-18",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-wi281109009.html",
+        "voyage_type": "Fly / Sail"
       }
     },
     {
@@ -15938,6 +17218,45 @@
       }
     },
     {
+      "id": "recPCzz9SiUdZ8hB9",
+      "createdTime": "2026-07-15T12:57:20.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-29-02-20",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-02-20",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-02",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recPDdTxPfYONhQmM",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -16214,6 +17533,45 @@
       }
     },
     {
+      "id": "recPZVoGZXNruwW92",
+      "createdTime": "2026-07-15T12:52:10.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-28-10-31",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-10-31",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-10",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recPbIYouWi6SNvwG",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -16296,6 +17654,43 @@
         "DIRECT-Dates-Rates-URL": "https://www.swanhellenic.com/destinations/antarctic",
         "voyage_url": "https://www.swanhellenic.com/cruise/in-shackletons-footsteps-falklands-south-georgia-and-the-antarctic-peninsula-2027-11-30",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recPhf0qWbdgp032O",
+      "createdTime": "2026-07-15T13:09:36.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-WVO-29-01-28",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-01-28",
+        "voyage_title": "Antarctic Express: Sail South, Fly North",
+        "nights_on_board": 8,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-06",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 10,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-cruise-south-fly-north",
+        "voyage_type": "Sail / Fly"
       }
     },
     {
@@ -16616,7 +18011,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-17",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 11,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -16653,7 +18048,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-17",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -17033,6 +18428,43 @@
         "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
         "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
         "voyage_type": "Sail / Fly"
+      }
+    },
+    {
+      "id": "recQeDLOfcuFnE0XP",
+      "createdTime": "2026-07-15T13:09:37.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-WVO-29-02-04",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-02-04",
+        "voyage_title": "Antarctic Express: Fly the Drake",
+        "nights_on_board": 5,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-11",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 8,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-the-drake",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -17472,7 +18904,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-12-21",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
         "nights_on_board": 15,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -17484,7 +18916,7 @@
         "route_destinations": [
           "Antarctic Peninsula",
           "South Shetland Islands",
-          "Antarctic Circle"
+          "South Georgia"
         ],
         "finish_date": "2027-01-06",
         "activities": [
@@ -17498,6 +18930,43 @@
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-wi261222015.html",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recR89OLXP2X8VQFv",
+      "createdTime": "2026-07-15T12:57:14.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-OEX-29-01-09",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-01-09",
+        "voyage_title": "Antarctic Express: Sail South, Fly North",
+        "nights_on_board": 8,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-18",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 10,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-cruise-south-fly-north",
+        "voyage_type": "Sail / Fly"
       }
     },
     {
@@ -18040,6 +19509,82 @@
       }
     },
     {
+      "id": "recRnMwTRRwvfjp9V",
+      "createdTime": "2026-07-15T13:31:16.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-02-04",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-04",
+        "voyage_title": "Antarctica & South Georgia: Fly & Sail the Drake Passage",
+        "nights_on_board": 12,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "South Georgia"
+        ],
+        "finish_date": "2029-02-19",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 15,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-ev290204015.html",
+        "voyage_type": "Fly / Sail"
+      }
+    },
+    {
+      "id": "recRzP7M34jhcp0nT",
+      "createdTime": "2026-07-15T12:55:09.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-OEX-28-12-07",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-12-07",
+        "voyage_title": "Antarctic Express: Fly the Drake",
+        "nights_on_board": 5,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-14",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 8,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-the-drake",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recS1kkCnQQzCix50",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -18530,6 +20075,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recStEyzmNrX4LIJS",
+      "createdTime": "2026-07-15T13:31:04.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-01-05",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-05",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
+        "nights_on_board": 7,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-14",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi290105009.html",
+        "voyage_type": "Sail / Fly"
       }
     },
     {
@@ -19312,7 +20895,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-03",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -20108,6 +21691,44 @@
       }
     },
     {
+      "id": "recUxDZ5GTqnmNHLc",
+      "createdTime": "2026-07-15T13:30:55.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-12-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-12",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
+        "nights_on_board": 7,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-21",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi281212009.html",
+        "voyage_type": "Sail / Fly"
+      }
+    },
+    {
       "id": "recV5vSpn4PL3N9FP",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -20189,6 +21810,44 @@
       }
     },
     {
+      "id": "recVC4vRjBo9FyYWD",
+      "createdTime": "2026-07-15T13:33:21.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-03-09",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-03-09",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-15",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-wi290309006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recVIZma3sAGbxsdO",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -20241,7 +21900,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-29",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula & the Falklands",
         "nights_on_board": 12,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -20252,7 +21911,8 @@
         ],
         "route_destinations": [
           "Antarctic Peninsula",
-          "South Shetland Islands"
+          "South Shetland Islands",
+          "Falklands/Malvinas"
         ],
         "finish_date": "2028-01-11",
         "activities": [
@@ -20537,7 +22197,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-11",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -20680,6 +22340,47 @@
         "DIRECT-Ship_URL": "https://www.aurora-expeditions.com/ship/greg-mortimer",
         "DIRECT-Dates-Rates-URL": "https://www.aurora-expeditions.com/us-voyage-calendar",
         "voyage_url": "https://www.aurora-expeditions.com/expedition/antarctica-complete?tourcode=ACO008G",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recW7NYidgz9EYEyW",
+      "createdTime": "2026-07-15T12:45:33.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-28-10-13",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-10-13",
+        "voyage_title": "Falkland Islands and South Georgia: 20-Day Wildlife Adventure",
+        "nights_on_board": 18,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY",
+          "KAX",
+          "PWP"
+        ],
+        "route_destinations": [
+          "Falklands/Malvinas",
+          "South Georgia"
+        ],
+        "finish_date": "2028-11-01",
+        "activities": [
+          "Sea Kayaking",
+          "Kayak Excursion",
+          "Photo Workshop"
+        ],
+        "start_location": "Puerto Madryn",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 20,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/falkland-islands-and-south-georgia-20-day-wildlife-adventure",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -21236,6 +22937,43 @@
       }
     },
     {
+      "id": "recWvKOZzdb85aaxn",
+      "createdTime": "2026-07-15T13:09:28.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-WVO-28-12-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-12-12",
+        "voyage_title": "Antarctic Express: Sail South, Fly North",
+        "nights_on_board": 8,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-21",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 10,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-cruise-south-fly-north",
+        "voyage_type": "Sail / Fly"
+      }
+    },
+    {
       "id": "recWydFUKfvfGyvP2",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -21393,6 +23131,45 @@
       }
     },
     {
+      "id": "recXAH14XkqtpWZKO",
+      "createdTime": "2026-07-15T13:31:18.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-29-02-11",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-11",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
+        "nights_on_board": 13,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "South Georgia"
+        ],
+        "finish_date": "2029-02-26",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 15,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4290211015.html",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recXImb4hdiisIULD",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -21439,7 +23216,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-10-18",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -21500,6 +23277,47 @@
         "DIRECT-Ship_URL": "https://www.terranova-expeditions.com/en/rms-st-helena",
         "DIRECT-Dates-Rates-URL": "https://www.terranova-expeditions.com/en/all-expeditions",
         "voyage_url": "https://www.terranova-expeditions.com/en/spirit-of-terra-nova",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recXV0YF01BJ9ZamR",
+      "createdTime": "2026-07-15T13:01:03.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-29-03-02",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2029-03-02",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-13",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -21581,6 +23399,45 @@
       }
     },
     {
+      "id": "recXj9UQYalayEIbO",
+      "createdTime": "2026-07-15T13:09:26.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-28-11-24",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-11-24",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-04",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recXlYm5EHlRNouFn",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -21653,6 +23510,45 @@
         "DIRECT-Ship_URL": "https://www.seabourn.com/en/us/cruise-ships/seabourn-pursuit/1",
         "DIRECT-Dates-Rates-URL": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recXtijFxng9h1Xbr",
+      "createdTime": "2026-07-15T13:30:54.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-28-12-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-06",
+        "voyage_title": "Antarctica: Exploring the Peninsula & the Falklands",
+        "nights_on_board": 10,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "Falklands/Malvinas"
+        ],
+        "finish_date": "2028-12-18",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4281206012.html",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -21916,7 +23812,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-10",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 10,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -22249,7 +24145,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-04",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
         "nights_on_board": 15,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -22261,7 +24157,7 @@
         "route_destinations": [
           "Antarctic Peninsula",
           "South Shetland Islands",
-          "Antarctic Circle"
+          "South Georgia"
         ],
         "finish_date": "2027-12-20",
         "activities": [
@@ -22437,7 +24333,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-12-05",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -22503,6 +24399,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.swanhellenic.com/destinations/antarctic",
         "voyage_url": "https://www.swanhellenic.com/cruise/expedition-to-antarctica-weddell-sea-cruise-2027-01-17",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recYvMe3A05M9nUAq",
+      "createdTime": "2026-07-15T13:31:21.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-02-22",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-22",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
+        "nights_on_board": 7,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-03",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi290222009.html",
+        "voyage_type": "Sail / Fly"
       }
     },
     {
@@ -22774,6 +24708,45 @@
       }
     },
     {
+      "id": "recZHWtTkggFfqf2q",
+      "createdTime": "2026-07-15T12:57:12.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-28-12-19",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-12-19",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-29",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recZO2tFszDO0etCg",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -22783,7 +24756,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-01-23",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -23049,6 +25022,44 @@
         "DIRECT-Dates-Rates-URL": "https://scenic.cruises/en-US/search/tours?scenic-tours%5BrefinementList%5D%5BproductDestination%5D%5B0%5D=Antarctica",
         "voyage_url": "https://scenic.cruises/US/en-US/tours/501s",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recZeI7caY8Hx9ZxQ",
+      "createdTime": "2026-07-15T13:31:03.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-12-30",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-30",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-05",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281230006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -23445,7 +25456,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-19",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -23469,6 +25480,45 @@
         "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi280220009.html",
+        "voyage_type": "Sail / Fly"
+      }
+    },
+    {
+      "id": "recaOG63B8hgbXJ1X",
+      "createdTime": "2026-07-15T13:30:37.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-10-26",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-10-26",
+        "voyage_title": "Antarctica & South Georgia: Sail & Fly the Drake Passage",
+        "nights_on_board": 12,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "South Georgia"
+        ],
+        "finish_date": "2028-11-09",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi281026014.html",
         "voyage_type": "Sail / Fly"
       }
     },
@@ -23724,7 +25774,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-10-24",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -23989,6 +26039,43 @@
       }
     },
     {
+      "id": "recb3y1GD37QunQ3x",
+      "createdTime": "2026-07-15T12:55:06.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-OEX-28-11-25",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-11-25",
+        "voyage_title": "Antarctic Express: Sail South, Fly North",
+        "nights_on_board": 8,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-04",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 10,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-cruise-south-fly-north",
+        "voyage_type": "Sail / Fly"
+      }
+    },
+    {
       "id": "recb4CIKhZIpfJOHd",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -24225,6 +26312,43 @@
         "DIRECT-Dates-Rates-URL": "https://www.vikingcruises.com/expeditions/cruise-destinations/antarctica/index.html",
         "voyage_url": "https://www.vikingcruises.com/expeditions/cruise-destinations/antarctica/antarctic-explorer/index.html",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recbZmNzrbI0xNGnM",
+      "createdTime": "2026-07-15T12:57:16.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-OEX-29-01-16",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-01-16",
+        "voyage_title": "Antarctic Express: Fly the Drake",
+        "nights_on_board": 5,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-23",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 8,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-the-drake",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -24665,7 +26789,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-12-31",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica & the Falklands: Sail & Fly the Drake Passage",
         "nights_on_board": 13,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -25062,7 +27186,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-29",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -25596,7 +27720,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-05",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -25869,7 +27993,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-12-17",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 8,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -26060,7 +28184,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-22",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -26492,6 +28616,44 @@
       }
     },
     {
+      "id": "recf4dfejR0zIQNzq",
+      "createdTime": "2026-07-15T13:31:08.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-01-14",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-14",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-20",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-wi290114006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recf76ZzeYEVhPcub",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -26599,6 +28761,47 @@
         "DIRECT-Ship_URL": "https://www.seabourn.com/en/us/cruise-ships/seabourn-pursuit/1",
         "DIRECT-Dates-Rates-URL": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recfHQj605MUQPQeM",
+      "createdTime": "2026-07-15T13:00:52.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-11-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-11-27",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-08",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -27002,6 +29205,45 @@
       }
     },
     {
+      "id": "recflA0JXomTImnXV",
+      "createdTime": "2026-07-15T12:57:20.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-29-03-01",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2029-03-01",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-11",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recfnfBvlQzEnJoYP",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -27203,7 +29445,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-02-18",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -27787,6 +30029,43 @@
       }
     },
     {
+      "id": "recgicgNw1FuA8DFy",
+      "createdTime": "2026-07-15T12:55:08.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-OEX-28-12-02",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-12-02",
+        "voyage_title": "Antarctic Express: Fly the Drake",
+        "nights_on_board": 5,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-09",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 8,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-the-drake",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recgotdBhEOt3YBir",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -27796,7 +30075,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-27",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -30075,7 +32354,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-20",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -30941,7 +33220,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-07",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -31045,6 +33324,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.swanhellenic.com/destinations/antarctic",
         "voyage_url": "https://www.swanhellenic.com/cruise/expedition-to-antarctica-weddell-sea-cruise-2027-01-23",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recl6vkrssQTZ09B4",
+      "createdTime": "2026-07-15T13:31:15.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-01-29",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-29",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-04",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290129006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -31247,6 +33564,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.aurora-expeditions.com/us-voyage-calendar",
         "voyage_url": "https://www.aurora-expeditions.com/expedition/south-georgia-antarctic-odyssey?tourcode=ASG101S",
         "voyage_type": "Sail / Fly"
+      }
+    },
+    {
+      "id": "reclPIyNbAO1UptIf",
+      "createdTime": "2026-07-15T13:30:52.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-12-03",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-03",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-12",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-wi281203009.html",
+        "voyage_type": "Fly / Sail"
       }
     },
     {
@@ -31491,6 +33846,44 @@
       }
     },
     {
+      "id": "reclfVkMzViuVnXBl",
+      "createdTime": "2026-07-15T13:31:26.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-03-03",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-03-03",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-09",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-wi290303006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recloVu7x6Wa9xryY",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -31535,6 +33928,81 @@
       }
     },
     {
+      "id": "recltOywivaqavKog",
+      "createdTime": "2026-07-15T13:09:38.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-WVO-29-02-09",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-02-09",
+        "voyage_title": "Antarctic Express: Fly the Drake",
+        "nights_on_board": 5,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-16",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 8,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-the-drake",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "recltmYQ35Zg9aLWV",
+      "createdTime": "2026-07-15T13:30:49.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-11-24",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-24",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-30",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281124006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "reclvBdtkTlx2Urwk",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -31544,7 +34012,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-19",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -31568,6 +34036,44 @@
         "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev280121006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "reclveVpkN4blrN2n",
+      "createdTime": "2026-07-15T13:30:56.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-12-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-12",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-18",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281212006.html",
         "voyage_type": "Fly / Fly"
       }
     },
@@ -31695,7 +34201,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-09",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -31774,7 +34280,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-29",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -32241,6 +34747,45 @@
       }
     },
     {
+      "id": "recmxKKySCDSQvlJQ",
+      "createdTime": "2026-07-15T13:09:33.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-29-01-03",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-01-03",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-13",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recmxwvWoXags4n4A",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -32275,6 +34820,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recmzIbUWrV8EpgTZ",
+      "createdTime": "2026-07-15T13:09:30.000Z",
+      "fields": {
+        "last_day": "Fly From PUQ",
+        "﻿voyage_id": "QUA-WVO-28-12-19",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-12-19",
+        "voyage_title": "Antarctic Express: Crossing the Circle",
+        "nights_on_board": 8,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Punta Arenas",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Circle",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-29",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-crossing-the-circle",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -32314,6 +34897,44 @@
         "DIRECT-Ship_URL": "https://www.antarctica21.com/ship/magellan-discoverer ",
         "DIRECT-Dates-Rates-URL": "https://www.antarctica21.com/antarctic-air-cruises",
         "voyage_url": "https://www.antarctica21.com/antarctica/classic-antarctica-air-cruise",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "recnE2jRDiH034z23",
+      "createdTime": "2026-07-15T13:30:49.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-11-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-27",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-03",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-wi281127006.html",
         "voyage_type": "Fly / Fly"
       }
     },
@@ -33108,7 +35729,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-03-08",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -33301,6 +35922,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.swanhellenic.com/destinations/antarctic",
         "voyage_url": "https://www.swanhellenic.com/cruise/antarctica-the-falklands-and-south-georgia-roundtrip-cruise-2027-11-08",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recolcQHpBVOmcvvR",
+      "createdTime": "2026-07-15T13:31:20.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-02-13",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-02-13",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-02-22",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-wi290213009.html",
+        "voyage_type": "Fly / Sail"
       }
     },
     {
@@ -33719,7 +36378,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-10-15",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica & the Falklands: Sail & Fly the Drake Passage",
         "nights_on_board": 13,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -34260,6 +36919,45 @@
       }
     },
     {
+      "id": "recqLj4vQyjSP5L9D",
+      "createdTime": "2026-07-15T13:09:25.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-28-11-15",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-11-15",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 9,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAX",
+          "CMP"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-25",
+        "activities": [
+          "Kayak Excursion",
+          "Camping"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recqPDOzIzUBkoFDk",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -34307,7 +37005,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-08",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
         "nights_on_board": 15,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -34319,7 +37017,7 @@
         "route_destinations": [
           "Antarctic Peninsula",
           "South Shetland Islands",
-          "Antarctic Circle"
+          "South Georgia"
         ],
         "finish_date": "2026-11-24",
         "activities": [
@@ -34456,6 +37154,45 @@
         "DIRECT-Ship_URL": "https://www.scenicusa.com/ocean/ocean-experience/ship-experience/our-ships-i-ii",
         "DIRECT-Dates-Rates-URL": "https://scenic.cruises/en-US/search/tours?scenic-tours%5BrefinementList%5D%5BproductDestination%5D%5B0%5D=Antarctica",
         "voyage_url": "https://scenic.cruises/US/en-US/tours/101s",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recqlonhqaxj07hON",
+      "createdTime": "2026-07-15T13:31:06.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-29-01-09",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-09",
+        "voyage_title": "Antarctica: Exploring the Peninsula & South Georgia",
+        "nights_on_board": 13,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "South Georgia"
+        ],
+        "finish_date": "2029-01-24",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 15,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4290109015.html",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -34923,7 +37660,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-25",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -35205,7 +37942,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-08",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -35511,7 +38248,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-11-20",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -35860,7 +38597,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-10-27",
-        "voyage_title": "Antarctica Fly & Sail: King George Island to Puerto Williams",
+        "voyage_title": "Antarctica & the Falklands: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -36098,7 +38835,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-02-10",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -36122,6 +38859,44 @@
         "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi270211009.html",
+        "voyage_type": "Sail / Fly"
+      }
+    },
+    {
+      "id": "rectAR6lEkZc6MTtU",
+      "createdTime": "2026-07-15T13:30:43.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-28-11-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-18",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
+        "nights_on_board": 7,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-11-27",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi281118009.html",
         "voyage_type": "Sail / Fly"
       }
     },
@@ -36159,6 +38934,46 @@
         "DIRECT-Ship_URL": "https://www.seabourn.com/en/us/cruise-ships/seabourn-venture/1",
         "DIRECT-Dates-Rates-URL": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "rectFseFwgSKyn0Tb",
+      "createdTime": "2026-07-15T13:00:56.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-29-01-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2029-01-06",
+        "voyage_title": "Antarctica by Helicopter: Crossing the Circle and the Peninsula",
+        "nights_on_board": 12,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "HFS",
+          "HLD"
+        ],
+        "route_destinations": [
+          "Antarctic Circle",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-19",
+        "activities": [
+          "Helicopter Flightseeing",
+          "Helicopter Landing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctica-by-helicopter-crossing-the-circle-and-the-peninsula",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -36249,7 +39064,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-17",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -36286,7 +39101,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-18",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -36362,7 +39177,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-14",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -36931,7 +39746,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-02-28",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -36956,6 +39771,45 @@
         "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi270301009.html",
         "voyage_type": "Sail / Fly"
+      }
+    },
+    {
+      "id": "recuTb2sHcSUAECtJ",
+      "createdTime": "2026-07-15T13:01:51.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-10-30",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-10-30",
+        "voyage_title": "Snow Hill to the Peninsula: Shackleton's Emperors",
+        "nights_on_board": 16,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAX",
+          "SUP"
+        ],
+        "route_destinations": [
+          "Snow Hill Island",
+          "Weddell Sea"
+        ],
+        "finish_date": "2028-11-16",
+        "activities": [
+          "Kayak Excursion",
+          "SUP Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 18,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/snow-hill-to-the-peninsula-shackletons-emperors",
+        "voyage_type": "Sail / Sail"
       }
     },
     {
@@ -37134,7 +39988,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-12-08",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
         "nights_on_board": 12,
         "ship_name": "Silver Cloud",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -37466,7 +40320,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2027-12-26",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -37810,6 +40664,44 @@
       }
     },
     {
+      "id": "recvoZxrF7BBurhFs",
+      "createdTime": "2026-07-15T13:30:50.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-28-11-30",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-11-30",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-06",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev281130006.html",
+        "voyage_type": "Fly / Fly"
+      }
+    },
+    {
       "id": "recvoyZKzdnTGdKN3",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -37962,6 +40854,44 @@
       }
     },
     {
+      "id": "recvreq1qBzYlclwn",
+      "createdTime": "2026-07-15T13:30:58.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-SCL-28-12-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2028-12-18",
+        "voyage_title": "Antarctica: Exploring the Peninsula",
+        "nights_on_board": 8,
+        "ship_name": "Silver Cloud",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-cloud/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-28",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 10,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-cloud.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-puerto-williams-e4281218010.html",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recvscGHsKuM0ZKj9",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -38002,7 +40932,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2026-11-06",
-        "voyage_title": "Antarctica Expedition: Puerto Williams Roundtrip",
+        "voyage_title": "Antarctica: Exploring South Georgia & the Falklands",
         "nights_on_board": 18,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -38041,7 +40971,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-02-06",
-        "voyage_title": "Antarctica Fly Cruise: King George Island Roundtrip",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
         "nights_on_board": 6,
         "ship_name": "Silver Endeavour",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -38391,6 +41321,47 @@
       }
     },
     {
+      "id": "recwiyewprZCBlPQr",
+      "createdTime": "2026-07-15T13:00:54.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-12-17",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-12-17",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-28",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recwjL8nZ5aKd0ejx",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -38474,6 +41445,43 @@
       }
     },
     {
+      "id": "recwsKOBakuY1c5TF",
+      "createdTime": "2026-07-15T12:57:11.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-28-12-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-12-12",
+        "voyage_title": "Antarctic Express: Fly South, Sail North",
+        "nights_on_board": 7,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2028-12-20",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-south-cruise-north",
+        "voyage_type": "Fly / Sail"
+      }
+    },
+    {
       "id": "recx08jw4W1ijNsoR",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -38507,6 +41515,47 @@
         "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
         "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
         "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "recx2ssI8KXvzExmB",
+      "createdTime": "2026-07-15T13:00:55.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-ULT-28-12-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 199,
+        "start_date": "2028-12-27",
+        "voyage_title": "Antarctic Explorer: Discovering the 7th Continent",
+        "nights_on_board": 10,
+        "ship_name": "Ultramarine",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ultramarine/",
+        "activity_codes": [
+          "KAY",
+          "HLD",
+          "HFS"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-07",
+        "activities": [
+          "Sea Kayaking",
+          "Helicopter Landing",
+          "Helicopter Flightseeing"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ultramarine",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
         "voyage_type": "Sail / Sail"
       }
     },
@@ -38590,6 +41639,48 @@
         "DIRECT-Dates-Rates-URL": "https://www.antarctica21.com/antarctic-air-cruises",
         "voyage_url": "https://www.antarctica21.com/antarctica/classic-antarctica-air-cruise",
         "voyage_type": "Fly / Fly"
+      }
+    },
+    {
+      "id": "recx5ALthNiugB0G1",
+      "createdTime": "2026-07-15T12:57:13.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-OEX-28-12-28",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 138,
+        "start_date": "2028-12-28",
+        "voyage_title": "Antarctic Peninsula: Crossing the Circle",
+        "nights_on_board": 12,
+        "ship_name": "Ocean Explorer",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ocean-explorer/",
+        "activity_codes": [
+          "KAY",
+          "KAX",
+          "SUP"
+        ],
+        "route_destinations": [
+          "Antarctic Circle",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-10",
+        "activities": [
+          "Sea Kayaking",
+          "Kayak Excursion",
+          "SUP Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 14,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-peninsula-crossing-the-circle",
+        "voyage_type": "Sail / Sail"
       }
     },
     {
@@ -38768,7 +41859,7 @@
         "company": "Silversea",
         "ship_capacity": 200,
         "start_date": "2028-01-14",
-        "voyage_title": "Antarctica Sail & Fly: Puerto Williams to King George Island",
+        "voyage_title": "Antarctica: Sail & Fly the Drake Passage",
         "nights_on_board": 9,
         "ship_name": "Silver Wind",
         "DIRECT-Company_url": "https://www.silversea.com/",
@@ -39155,6 +42246,82 @@
       }
     },
     {
+      "id": "recyDWpwDZRKnm6rA",
+      "createdTime": "2026-07-15T13:31:10.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-WND-29-01-20",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-20",
+        "voyage_title": "Antarctica: Fly & Sail the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "Silver Wind",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Puerto Williams",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-wind/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-29",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-wind.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-puerto-williams-wi290120009.html",
+        "voyage_type": "Fly / Sail"
+      }
+    },
+    {
+      "id": "recySPJyqdg2pQicu",
+      "createdTime": "2026-07-15T13:09:35.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-29-01-12",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2029-01-12",
+        "voyage_title": "South Georgia and Antarctic Peninsula: Penguin Safari",
+        "nights_on_board": 16,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Georgia",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-29",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 18,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/south-georgia-and-antarctic-peninsula-penguin-safari",
+        "voyage_type": "Sail / Sail"
+      }
+    },
+    {
       "id": "recyWTQQ8ZUE5VyCH",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -39313,6 +42480,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.aurora-expeditions.com/us-voyage-calendar",
         "voyage_url": "https://www.aurora-expeditions.com/expedition/across-the-antarctic-circle?tourcode=ANC020S",
         "voyage_type": "Sail / Fly"
+      }
+    },
+    {
+      "id": "recyqa6z7n212b7PL",
+      "createdTime": "2026-07-15T13:31:27.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-03-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-03-06",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-03-12",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290306006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
@@ -39557,6 +42762,43 @@
         "DIRECT-Dates-Rates-URL": "https://oceanwide-expeditions.com/trips/dates-rates",
         "voyage_url": "https://oceanwide-expeditions.com/antarctica/cruises/hds31-27-antarctica-whale-watching-discovery-and-learning-voyage-diving-course",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "reczGIigK8PT5D5Uq",
+      "createdTime": "2026-07-15T13:09:32.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "QUA-WVO-28-12-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/quark-expeditions/",
+        "company": "Quark Expeditions",
+        "ship_capacity": 200,
+        "start_date": "2028-12-27",
+        "voyage_title": "Antarctic Express: Fly South, Sail North",
+        "nights_on_board": 7,
+        "ship_name": "World Voyager",
+        "DIRECT-Company_url": "https://www.quarkexpeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/world-voyager/",
+        "activity_codes": [
+          "KAY"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-04",
+        "activities": [
+          "Sea Kayaking"
+        ],
+        "start_location": "Punta Arenas",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/world-voyager",
+        "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
+        "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-south-cruise-north",
+        "voyage_type": "Fly / Sail"
       }
     },
     {
@@ -39976,6 +43218,44 @@
         "DIRECT-Dates-Rates-URL": "https://www.swanhellenic.com/destinations/antarctic",
         "voyage_url": "https://www.swanhellenic.com/cruise/antarctic-wonders-roundtrip-cruise-from-ushuaia-2027-01-28",
         "voyage_type": "Sail / Sail"
+      }
+    },
+    {
+      "id": "reczwS8EFcTFpX87h",
+      "createdTime": "2026-07-15T13:31:05.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "SIL-CEN-29-01-05",
+        "AC-company_url": "https://www.antarcticaconfidential.com/silversea/",
+        "company": "Silversea",
+        "ship_capacity": 200,
+        "start_date": "2029-01-05",
+        "voyage_title": "Antarctica: Fly the Drake Passage",
+        "nights_on_board": 3,
+        "ship_name": "Silver Endeavour",
+        "DIRECT-Company_url": "https://www.silversea.com/",
+        "finish_location": "Santiago",
+        "notes": "[voyage_url needs manual lookup from Silversea site ‚Äî not derivable from screenshot]",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/silver-endeavour/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "finish_date": "2029-01-11",
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Luxury (L)",
+        "first_night": "Hotel",
+        "total_days": 6,
+        "DIRECT-Ship_URL": "https://www.silversea.com/ships/silver-endeavour.html",
+        "DIRECT-Dates-Rates-URL": "https://www.silversea.com/destinations/antarctica-cruise.html",
+        "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev290105006.html",
+        "voyage_type": "Fly / Fly"
       }
     },
     {
