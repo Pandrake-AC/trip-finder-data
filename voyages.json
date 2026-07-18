@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15",
+  "generated": "2026-07-18",
   "records": [
     {
       "id": "rec00bZZWOtGb1TTD",
@@ -11177,14 +11177,14 @@
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
         "last_day": "Debark",
-        "﻿voyage_id": "OCE-HON-28-01-08",
+        "﻿voyage_id": "OCE-HON-28-01-07",
         "AC-company_url": "https://www.antarcticaconfidential.com/oceanwide-expeditions/",
         "operator_voyage_code": "HDS26-28",
         "company": "Oceanwide Expeditions",
         "ship_capacity": 170,
-        "start_date": "2028-01-08",
+        "start_date": "2028-01-07",
         "voyage_title": "Antarctica - Discovery and Learning",
-        "nights_on_board": 10,
+        "nights_on_board": 11,
         "ship_name": "Hondius",
         "DIRECT-Company_url": "https://oceanwide-expeditions.com/",
         "finish_location": "Ushuaia",
@@ -11196,7 +11196,7 @@
         "start_location": "Ushuaia",
         "ship_comfort_level": "Premium (P)",
         "first_night": "Embark",
-        "total_days": 11,
+        "total_days": 12,
         "DIRECT-Ship_URL": "https://oceanwide-expeditions.com/our-fleet/m-v-hondius",
         "DIRECT-Dates-Rates-URL": "https://oceanwide-expeditions.com/trips/dates-rates",
         "voyage_url": "https://oceanwide-expeditions.com/antarctica/cruises/hds26-28-antarctica-discovery-and-learning",
@@ -37700,7 +37700,7 @@
         "ship_capacity": 170,
         "start_date": "2027-12-29",
         "voyage_title": "Antarctica - Discovery and Learning",
-        "nights_on_board": 10,
+        "nights_on_board": 9,
         "ship_name": "Hondius",
         "DIRECT-Company_url": "https://oceanwide-expeditions.com/",
         "finish_location": "Ushuaia",
@@ -37708,11 +37708,11 @@
         "route_destinations": [
           "Antarctic Peninsula"
         ],
-        "finish_date": "2028-01-08",
+        "finish_date": "2028-01-07",
         "start_location": "Ushuaia",
         "ship_comfort_level": "Premium (P)",
         "first_night": "Embark",
-        "total_days": 11,
+        "total_days": 10,
         "DIRECT-Ship_URL": "https://oceanwide-expeditions.com/our-fleet/m-v-hondius",
         "DIRECT-Dates-Rates-URL": "https://oceanwide-expeditions.com/trips/dates-rates",
         "voyage_url": "https://oceanwide-expeditions.com/antarctica/cruises/hds25-28-antarctica-discovery-and-learning",
