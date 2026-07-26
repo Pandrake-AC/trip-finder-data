@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-19",
+  "generated": "2026-07-26",
   "records": [
     {
       "id": "rec00bZZWOtGb1TTD",
@@ -2374,6 +2374,43 @@
       }
     },
     {
+      "id": "rec2bQvTDyphaInNb",
+      "createdTime": "2026-07-26T17:36:44.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-11-11",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281111",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "rec2fpSTMO1TffSUI",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -3245,6 +3282,43 @@
       }
     },
     {
+      "id": "rec3uPrzHhOU6rzAw",
+      "createdTime": "2026-07-26T17:37:04.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-11-15",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-281115",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "rec3yF9r1ufz5ly1W",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -3603,6 +3677,82 @@
         "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctica-by-helicopter-crossing-the-circle-and-the-peninsula",
         "voyage_type": "Sail / Sail",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "rec4Ide88Eq6lMnQp",
+      "createdTime": "2026-07-26T17:36:53.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-01-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290106",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
+      }
+    },
+    {
+      "id": "rec4Kv1V95aAMUviG",
+      "createdTime": "2026-07-26T17:36:43.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-10-23",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXASGF-281023",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica, South Georgia, and the Falklands",
+        "nights_on_board": 19,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Falklands/Malvinas",
+          "South Georgia",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 21,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-south-georgia-and-the-falklands",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -4308,6 +4458,43 @@
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail",
         "season": "2028/29"
+      }
+    },
+    {
+      "id": "rec5StarN0Ok4iNJe",
+      "createdTime": "2026-07-26T17:37:19.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-02-15",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-290215",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
       }
     },
     {
@@ -5867,6 +6054,43 @@
         "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
         "voyage_type": "Sail / Sail",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "rec7ao7fprfiMYcw0",
+      "createdTime": "2026-07-26T17:37:13.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-01-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-290118",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
       }
     },
     {
@@ -7840,6 +8064,43 @@
       }
     },
     {
+      "id": "recAhx28SvwQ3vs0Z",
+      "createdTime": "2026-07-26T17:37:21.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-02-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-290227",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recAkFZgHwREWl5oc",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -8391,6 +8652,43 @@
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recBfpShtNHB2yJZO",
+      "createdTime": "2026-07-26T17:37:18.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-02-07",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-290207",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
       }
     },
     {
@@ -8952,6 +9250,43 @@
         "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
         "voyage_type": "Fly / Fly",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recChYJ8vtRvsDcuW",
+      "createdTime": "2026-07-26T17:37:00.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-02-15",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290215",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
       }
     },
     {
@@ -9632,6 +9967,43 @@
         "voyage_url": "https://www.antarctica21.com/our-expeditions/classic-antarctica-air-cruise",
         "voyage_type": "Fly / Fly",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recDR6e9vNJ87yIBU",
+      "createdTime": "2026-07-26T17:37:30.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-29-01-06",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-290106",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -10483,6 +10855,43 @@
       }
     },
     {
+      "id": "recEt63HnskilFwwp",
+      "createdTime": "2026-07-26T17:37:05.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-11-23",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-281123",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "recEzZ00xs1tKfqXt",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -11277,6 +11686,43 @@
         "voyage_url": "https://atlasoceanvoyages.com/destination/9-night-ushuaia-roundtrip-11-28-26",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recFp6Dr9gdF3GnAO",
+      "createdTime": "2026-07-26T17:36:58.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-02-07",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290207",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
       }
     },
     {
@@ -12139,6 +12585,43 @@
       }
     },
     {
+      "id": "recHbqLDDbYDqE6Th",
+      "createdTime": "2026-07-26T17:37:08.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-12-13",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-281213",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "recHgb3EQEoUDn9EG",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -12879,6 +13362,43 @@
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail",
         "season": "2028/29"
+      }
+    },
+    {
+      "id": "recIer4bDLJNdXqOD",
+      "createdTime": "2026-07-26T17:36:48.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-12-05",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281205",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
       }
     },
     {
@@ -14956,6 +15476,43 @@
       }
     },
     {
+      "id": "recLR9IgbPdtJBTaY",
+      "createdTime": "2026-07-26T17:37:19.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-02-21",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-290221",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "recLRbnl2X1Z6U7kC",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -14996,6 +15553,43 @@
         "voyage_url": "https://polar-latitudes.com/expeditions/antarctica/crossing-the-antarctic-circle/",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recLh383woSMBT79p",
+      "createdTime": "2026-07-26T17:37:01.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-02-23",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290223",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
       }
     },
     {
@@ -15626,6 +16220,43 @@
         "voyage_url": "https://www.antarctica21.com/our-expeditions/classic-antarctica-air-cruise",
         "voyage_type": "Fly / Fly",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recMZUCef60l5sO1M",
+      "createdTime": "2026-07-26T17:37:34.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-29-02-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-290218",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -16411,6 +17042,44 @@
       }
     },
     {
+      "id": "recNgN6mzYKVXdFwQ",
+      "createdTime": "2026-07-26T17:36:41.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-28-12-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDACIR-281218",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Quest for the Antarctic Circle",
+        "nights_on_board": 14,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "Antarctic Circle"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 16,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctic-circle",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recNgzIT8EaaRSf9N",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -17084,6 +17753,43 @@
       }
     },
     {
+      "id": "recOd07nwxR3xsuP2",
+      "createdTime": "2026-07-26T17:36:36.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-28-11-18",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDANTA-281118",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recOdYLQOpP7naLXa",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -17122,6 +17828,43 @@
         "voyage_url": "https://atlasoceanvoyages.com/destination/7-night-king-george-island-roundtrip-2-19-28",
         "voyage_type": "Fly / Fly",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recOhah0vassLNpW9",
+      "createdTime": "2026-07-26T17:36:46.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-11-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281127",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
       }
     },
     {
@@ -17891,6 +18634,43 @@
       }
     },
     {
+      "id": "recPOdVt27pSfUQkc",
+      "createdTime": "2026-07-26T17:36:49.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-12-13",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281213",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "recPTkWJ9V30urHSm",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -18133,6 +18913,45 @@
         "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-cruise-south-fly-north",
         "voyage_type": "Sail / Fly",
         "season": "2028/29"
+      }
+    },
+    {
+      "id": "recPnFg25cyjkpBmw",
+      "createdTime": "2026-07-26T17:37:02.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-03-04",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXASGF-290304",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica, South Georgia, and the Falklands",
+        "nights_on_board": 19,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Falklands/Malvinas",
+          "South Georgia",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 21,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-south-georgia-and-the-falklands",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -20037,6 +20856,43 @@
       }
     },
     {
+      "id": "recRqNffx5nvG9NkO",
+      "createdTime": "2026-07-26T17:37:13.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-01-24",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-290124",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "recRzP7M34jhcp0nT",
       "createdTime": "2026-07-15T12:55:09.000Z",
       "fields": {
@@ -21097,6 +21953,43 @@
         "voyage_url": "https://polar-latitudes.com/expeditions/antarctica/antarctic-peninsula-the-classic-voyage/",
         "voyage_type": "Sail / Sail",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recTTE2DPtZHg5FV7",
+      "createdTime": "2026-07-26T17:37:05.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-11-29",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-281129",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
       }
     },
     {
@@ -23749,6 +24642,43 @@
       }
     },
     {
+      "id": "recXEJUzlZFDSCANw",
+      "createdTime": "2026-07-26T17:36:45.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-11-19",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281119",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recXImb4hdiisIULD",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -24222,6 +25152,80 @@
         "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recY3d4exoPQpxnbI",
+      "createdTime": "2026-07-26T17:36:56.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-01-30",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290130",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
+      }
+    },
+    {
+      "id": "recY5SOiznHjp60eY",
+      "createdTime": "2026-07-26T17:37:09.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-12-21",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-281221",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
       }
     },
     {
@@ -24861,6 +25865,43 @@
       }
     },
     {
+      "id": "recYmUqtbMa3qOHiq",
+      "createdTime": "2026-07-26T17:37:11.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-01-02",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-290102",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recYqGkph0eyrykCI",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -25161,6 +26202,45 @@
         "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
         "voyage_type": "Sail / Fly",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recZ4Af1Gs8uUSJUD",
+      "createdTime": "2026-07-26T17:37:26.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-11-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSASGF-281127",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Antarctica, South Georgia, and the Falklands",
+        "nights_on_board": 20,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Falklands/Malvinas",
+          "South Georgia",
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 22,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-south-georgia-and-the-falklands",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -25887,6 +26967,43 @@
       }
     },
     {
+      "id": "reca7nRyBYVVRgtul",
+      "createdTime": "2026-07-26T17:37:27.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-12-17",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-281217",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "reca8XSWWH8onP4lA",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -26242,6 +27359,43 @@
       }
     },
     {
+      "id": "recaPxsOOpHXyPJcB",
+      "createdTime": "2026-07-26T17:37:11.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-01-10",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-290110",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
+      }
+    },
+    {
       "id": "recacl3No2PSePOqh",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -26522,6 +27676,43 @@
         "voyage_url": "https://oceanwide-expeditions.com/antarctica/cruises/pla30-27-antarctica-weddell-sea-explorer",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recawYuTpSFZ1MIqe",
+      "createdTime": "2026-07-26T17:35:28.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-28-10-29",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDANTA-281029",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -27731,6 +28922,43 @@
         "voyage_url": "https://www.antarctica21.com/our-expeditions/classic-antarctica-air-cruise",
         "voyage_type": "Fly / Fly",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recdCDxgSHTyzPMj5",
+      "createdTime": "2026-07-26T17:36:42.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-29-01-01",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDANTA-290101",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -29934,6 +31162,44 @@
       }
     },
     {
+      "id": "recfc9eXkHtdEww68",
+      "createdTime": "2026-07-26T17:37:24.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-11-03",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSACIR-281103",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Quest for the Antarctic Circle",
+        "nights_on_board": 14,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands",
+          "Antarctic Circle"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 16,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctic-circle",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recflA0JXomTImnXV",
       "createdTime": "2026-07-15T12:57:20.000Z",
       "fields": {
@@ -30405,6 +31671,44 @@
       }
     },
     {
+      "id": "recgG7y6hBiMiSnrW",
+      "createdTime": "2026-07-26T17:37:33.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-29-01-26",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSEPSO-290126",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Patagonia, Falklands, South Georgia and Antarctica Odyssey",
+        "nights_on_board": 23,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Falklands/Malvinas",
+          "South Georgia",
+          "Antarctic Peninsula"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 25,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/patagonia-falklands-south-georgia-and-antarctica-odyssey",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recgIntZGXRSBo7g6",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -30614,6 +31918,43 @@
       }
     },
     {
+      "id": "recgUT1JfsRFiABKP",
+      "createdTime": "2026-07-26T17:37:07.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-12-05",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-281205",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recgVsmbNFahwky13",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -30651,6 +31992,43 @@
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "recgXi3J5GpaZaKKH",
+      "createdTime": "2026-07-26T17:37:23.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-10-24",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-281024",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -31286,6 +32664,43 @@
         "voyage_url": "https://www.antarctica21.com/our-expeditions/classic-antarctica-air-cruise",
         "voyage_type": "Fly / Fly",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "rechISUS4vEsZEcp5",
+      "createdTime": "2026-07-26T17:36:54.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-01-14",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290114",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
       }
     },
     {
@@ -32522,6 +33937,43 @@
       }
     },
     {
+      "id": "reciqqZcDNaT8v3T3",
+      "createdTime": "2026-07-26T17:37:21.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-10-14",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-281014",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recitO6jhdiikiCOY",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -32790,6 +34242,43 @@
       }
     },
     {
+      "id": "recjB33pMw8kXgLV5",
+      "createdTime": "2026-07-26T17:37:16.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-29-01-30",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORCRZF10-290130",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recjBt3bifetZ07hg",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -32871,6 +34360,43 @@
         "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-express-fly-south-cruise-north",
         "voyage_type": "Fly / Sail",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recjMMIx4pKaqySx7",
+      "createdTime": "2026-07-26T17:37:10.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-ORI-28-12-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "ORAFLY9-281227",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 102,
+        "voyage_title": "Antarctica Direct: Fly the Drake Passage",
+        "nights_on_board": 6,
+        "ship_name": "NG Orion",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-orion/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 9,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/ships/national-geographic-orion",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Fly",
+        "season": ""
       }
     },
     {
@@ -34043,6 +35569,43 @@
       }
     },
     {
+      "id": "recl4VG8NSxlVVEBB",
+      "createdTime": "2026-07-26T17:37:25.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-11-17",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-281117",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recl5enteU5qwv6kF",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -35079,6 +36642,43 @@
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/puerto-williams-to-king-george-island-wi271210009.html",
         "voyage_type": "Sail / Fly",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recmDL5lVyeGNxNsh",
+      "createdTime": "2026-07-26T17:36:50.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-12-21",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281221",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
       }
     },
     {
@@ -36370,6 +37970,43 @@
         "voyage_url": "https://www.seabourn.com/en/us/cruise-destinations/antarctica",
         "voyage_type": "Sail / Sail",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recoE3bhDk1vfRkn5",
+      "createdTime": "2026-07-26T17:36:52.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-28-12-29",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-281229",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Puerto Natales",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Ushuaia",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Sail / Fly",
+        "season": ""
       }
     },
     {
@@ -38163,6 +39800,43 @@
       }
     },
     {
+      "id": "recqthQ1f2OoTlPol",
+      "createdTime": "2026-07-26T17:37:36.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-29-02-28",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-290228",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recqyDIYK7cUwJb0n",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -38542,6 +40216,43 @@
         "voyage_url": "https://www.travelhx.com/en-us/cruises/iconic-antarctica-the-explorers-route/",
         "voyage_type": "Sail / Sail",
         "season": "2027/28"
+      }
+    },
+    {
+      "id": "recrEHMnePcYXCuRx",
+      "createdTime": "2026-07-26T17:36:55.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGE-29-01-22",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EXCRZF10-290122",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 148,
+        "voyage_title": "Antarctica Direct: Sail and Fly the Drake Passage",
+        "nights_on_board": 8,
+        "ship_name": "NG Explorer",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Ushuaia",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-explorer/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Puerto Natales",
+        "ship_comfort_level": "Adventure (A)",
+        "first_night": "Hotel",
+        "total_days": 11,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-explorer",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/antarctica-direct-sail-and-fly-the-drake-passage",
+        "voyage_type": "Fly / Sail",
+        "season": ""
       }
     },
     {
@@ -39229,6 +40940,43 @@
       }
     },
     {
+      "id": "recsHp81s7PUQXcnS",
+      "createdTime": "2026-07-26T17:37:29.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-28-12-27",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-281227",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recsHuM2ZHqQmBajb",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -39752,6 +41500,43 @@
       }
     },
     {
+      "id": "rect0XvoiTrjGRxYi",
+      "createdTime": "2026-07-26T17:36:36.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-28-11-28",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDANTA-281128",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "rect4seOotF1kFFDq",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -40062,6 +41847,43 @@
         "voyage_url": "https://www.silversea.com/destinations/antarctica-cruise/king-george-island-to-king-george-island-ev261119006.html",
         "voyage_type": "Fly / Fly",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "rectOMd1kvTOZbsem",
+      "createdTime": "2026-07-26T17:36:37.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-28-12-08",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDANTA-281208",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
@@ -43137,6 +44959,43 @@
       }
     },
     {
+      "id": "recxaED13549qlQ4z",
+      "createdTime": "2026-07-26T17:35:32.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-DUR-28-11-08",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "EDANTA-281108",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Endurance",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Buenos Aires",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-endurance/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Buenos Aires",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-endurance",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
+      }
+    },
+    {
       "id": "recxe8ZS7zx8xG9Do",
       "createdTime": "2026-05-08T13:45:22.000Z",
       "fields": {
@@ -44177,6 +46036,43 @@
         "voyage_url": "https://us.ponant.com/antarctica-emblematic-antarctica-bo060127-12",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
+      }
+    },
+    {
+      "id": "reczm9LlC4LjZbVDz",
+      "createdTime": "2026-07-26T17:37:32.000Z",
+      "fields": {
+        "last_day": "Debark",
+        "﻿voyage_id": "LIN-NGR-29-01-16",
+        "AC-company_url": "https://www.antarcticaconfidential.com/lindblad-expeditions/",
+        "operator_voyage_code": "RSANTA-290116",
+        "company": "Lindblad Expeditions",
+        "ship_capacity": 126,
+        "voyage_title": "Voyage to Antarctica",
+        "nights_on_board": 10,
+        "ship_name": "NG Resolution",
+        "DIRECT-Company_url": "https://www.expeditions.com/",
+        "finish_location": "Santiago",
+        "AC-ship_url": "https://www.antarcticaconfidential.com/ng-resolution/",
+        "activity_codes": [
+          "KAX"
+        ],
+        "route_destinations": [
+          "Antarctic Peninsula",
+          "South Shetland Islands"
+        ],
+        "activities": [
+          "Kayak Excursion"
+        ],
+        "start_location": "Santiago",
+        "ship_comfort_level": "Premium (P)",
+        "first_night": "Hotel",
+        "total_days": 12,
+        "DIRECT-Ship_URL": "https://www.expeditions.com/about/fleet/national-geographic-resolution",
+        "DIRECT-Dates-Rates-URL": "https://www.expeditions.com/destinations/antarctica/",
+        "voyage_url": "https://www.expeditions.com/expeditions/journey-to-antarctica-the-white-continent",
+        "voyage_type": "Sail / Sail",
+        "season": ""
       }
     },
     {
