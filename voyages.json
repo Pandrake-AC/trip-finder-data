@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22",
+  "generated": "2026-09-30",
   "records": [
     {
       "id": "rec00bZZWOtGb1TTD",
@@ -12550,49 +12550,6 @@
         "DIRECT-Ship_URL": "https://www.quarkexpeditions.com/expedition-ships/ocean-explorer ",
         "DIRECT-Dates-Rates-URL": "https://www.quarkexpeditions.com/dates-and-rates",
         "voyage_url": "https://www.quarkexpeditions.com/expeditions/antarctic-explorer-discovering-the-7th-continent",
-        "voyage_type": "Sail / Sail",
-        "season": "2026/27"
-      }
-    },
-    {
-      "id": "recGOVOKuYK0gEc6e",
-      "createdTime": "2026-05-08T13:45:22.000Z",
-      "fields": {
-        "last_day": "Fly From PUQ",
-        "voyage_id": "A21-MGE-26-09-26",
-        "AC-company_url": "https://www.antarcticaconfidential.com/antarctica21/",
-        "operator_voyage_code": "MAG03-FS_2026-27",
-        "company": "Antarctica21",
-        "ship_capacity": 76,
-        "start_date": "2026-09-26",
-        "voyage_title": "Falklands (Malvinas) & South Georgia",
-        "nights_on_board": 14,
-        "ship_name": "Magellan Explorer",
-        "DIRECT-Company_url": "https://www.antarctica21.com/",
-        "finish_location": "Punta Arenas",
-        "AC-ship_url": "https://www.antarcticaconfidential.com/magellan-explorer/",
-        "activity_codes": [
-          "SSH",
-          "KAY"
-        ],
-        "route_destinations": [
-          "Falklands/Malvinas",
-          "South Georgia"
-        ],
-        "finish_date": "2026-10-12",
-        "activities": [
-          "Snowshoeing",
-          "Sea Kayaking"
-        ],
-        "start_location": "Punta Arenas",
-        "ship_id": "MGE",
-        "ship_comfort_level": "Premium (P)",
-        "first_night": "Hotel",
-        "total_days": 17,
-        "operator_id": "A21",
-        "DIRECT-Ship_URL": "https://www.antarctica21.com/ship/magellan-explorer ",
-        "DIRECT-Dates-Rates-URL": "https://www.antarctica21.com/antarctic-air-cruises",
-        "voyage_url": "https://www.antarctica21.com/our-expeditions/falklands-south-georgia",
         "voyage_type": "Sail / Sail",
         "season": "2026/27"
       }
